@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+     width: 80%;
+    /*max-width: 800px; */
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 2%;
+   /* margin-left: 20%; */
+
+      
+}
+
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.btn{
+ margin-left: 5%;
+ margin-top: 5%;
+}

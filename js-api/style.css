@@ -1,0 +1,31 @@
+
+.form1{
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin: 250px auto;
+    padding:50px;
+}
+body {
+    background-image: url("image/bg.jpg");
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 30px;
+
+      
+} */
